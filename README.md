@@ -1,1 +1,1 @@
-# Test-Szybkiego-Pisania
+Test szybkiego pisania, sam kod.
